@@ -1,2 +1,3 @@
 #!/bin/bash
-su betty
+ln -s /bin/su /bin/betty
+/betty
